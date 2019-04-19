@@ -9,7 +9,7 @@ end
 end
 
 def not_safe?(speed)
- speed  ? true : false
+ speed (41..60) ? tr : false
 end
 
 
